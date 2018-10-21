@@ -1,3 +1,6 @@
 LICENSE111
 练习一下
 我先add然后在修改，然后直接commit
+我准备添加3行，然后提交，
+稍后我在删除下面的一行xxxx
+xxxxxx
