@@ -8,3 +8,5 @@ Creating a new branch is quick & simple
 我来修复bug啦啦啦
 有bug，我得先停一下，去修复bug
 这是我放下手头的工作，来issue-002分支修复bug啦啦啦
+111这是我在dev分支做了一半的事情，我临时有bug要去修复啦啦
+我在issue-002分支把bug修复啦，我又回来dev继续干活啦啦啦
