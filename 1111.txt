@@ -6,3 +6,4 @@ Creating a new branch is quick & simple
 阿斯蒂芬撒旦分
 
 我来修复bug啦啦啦
+有bug，我得先停一下，去修复bug
