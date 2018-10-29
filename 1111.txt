@@ -12,3 +12,4 @@ Creating a new branch is quick & simple
 我在issue-002分支把bug修复啦，我又回来dev继续干活啦啦啦
 有冲突啦啦啦
 从github造成的冲突
+这是我本地的改动
